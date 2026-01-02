@@ -1,3 +1,4 @@
+-- why tf did i get declined for the missing .lua extension anyways here
 -- mb for shit explains tried my best
 -- showcase vid: https://www.youtube.com/watch?v=cE9jzolLrCc
 -- u cant really test it out cuz roblox cant fucking verify it for some reason but also the flags are integrated through discord and the ban function is removed due to testing purposes so plz just watch the vid and yeah thanks
